@@ -6,7 +6,10 @@ Get file size from URL without downloading it.
 Returns Promise<Number> with 'B', 'KB', 'MB', 'GB', 'TB' on success.
 
 
+```bash
 npm i file_size_url
+
+```
 
 
 ```js

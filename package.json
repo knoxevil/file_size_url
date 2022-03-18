@@ -1,6 +1,6 @@
 {
   "name": "file_size_url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get file size by URL without downloading it",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/rn0x/file_size_url.git"
   },
   "publishConfig": {
-    "registry":"https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "url",
