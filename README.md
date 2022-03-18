@@ -1,5 +1,10 @@
 # file_size_url
 
+<p align="center">
+  <img align="center" src = "https://profile-counter.glitch.me/file_size_url/count.svg"> <br><br>
+
+</p>
+
 Get file size from URL without downloading it.
 0 dependencies.  
   
