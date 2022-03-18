@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1,08 | ESTADIO TNT SPORTS HD
+http://gratis.shortgod.com/ratonescuriosos/tv4.1.php?c=134166.m3u8
+#EXTINF:-1,09 | ESTADIO TNT SPORTS UHD
+http://gratis.shortgod.com/ratonescuriosos/tv4.1.php?c=134167.m3u8
+#EXTINF:-1,35 | TNT DEPORTES CHILE
+http://gratis.shortgod.com/ratonescuriosos/tv4.1.php?c=145443.m3u8
+#EXTINF:-1,05 | TNT DEPORTES HD
+http://gratis.shortgod.com/ratonescuriosos/tv4.1.php?c=148459.m3u8
+#EXTINF:-1,06 | FOX DEPORTES PREMIUM FHD
+
+
+http://gratis.shortgod.com/ratonescuriosos/tv4.1.php?c=148460.m3u8
+#EXTINF:-1,07 | FOX DEPORTES PREMIUM HD
+http://gratis.shortgod.com/ratonescuriosos/tv4.1.php?c=148461.m3u8
+
+#EXTINF:-1 / TNT SPORT CHILE HDDDD
+http://gratis.shortgod.com/ratonescuriosos/tv5.php?c=518.m3u8
+
+#EXTINF:-1 NTTT CHH
+http://nandplay.club:8080/live/GtKUKxH33SYx/AjD5cP6aCaXY/518.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DLAT | TNT SPORTS" tvg-logo="http://svtv.xyz:8000/images/1ae1c7b64cfeba957afa7c26150fd20a.png" group-title="DEPORTE LATINO" ,DLAT | DEPORTES TNT
+http://gratis.shortgod.com/ratonescuriosos/tv8.php?c=249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DLAT | TNT SPORT HD" tvg-logo="http://svtv.xyz:8000/images/1ae1c7b64cfeba957afa7c26150fd20a.png" group-title="DEPORTE LATINO ",DLAT | TNT DEPORTE HD
+http://gratis.shortgod.com/ratonescuriosos/tv8.php?c=250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DLAT | ESPN +" tvg-logo="http://svtv.xyz:8000/images/1ae1c7b64cfeba957afa7c26150fd20a.png" group-title="DEPORTE LATINO" ,DLAT | ESPN+
+http://gratis.shortgod.com/ratonescuriosos/tv8.php?c=251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DLAT | TNT SPORTS HD OP2" tvg-logo="http://svtv.xyz:8000/images/1ae1c7b64cfeba957afa7c26150fd20a.png" group-title="DEPORTE LATINO",DLAT | TNT DEPORTES HD
+
+#EXTINF:-1, CL : TNT SPORTS Premium
+http://node.smartersapp.net:2082/live/USCORP2385/PSCORP7474/578.m3u8
+
+
+
+#EXTINF:-1,24/7 LOS SIMPSON
+http://ui.mrzutv.net:8080/live/spiderman/spiderman/307.m3u8
+
+
+#EXTINF:-1,24/7 CORAJE EL PERRO COBARDE
+http://ui.mrzutv.net:8080/live/spiderman/spiderman/338.m3u8
+
